@@ -1,0 +1,9 @@
+{
+  "type": "wom:staff",
+  "attributes": {
+    "common": {
+      "impact": 3.4,
+      "max_strikes": 4
+    }
+  }
+}

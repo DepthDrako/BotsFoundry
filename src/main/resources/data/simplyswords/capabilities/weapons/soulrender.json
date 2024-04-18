@@ -1,0 +1,10 @@
+{
+  "type": "wom:antitheus",
+  "attributes": {
+    "common": {
+      "armor_negation": 10.0,
+      "impact": 4,
+      "max_strikes": 3
+    }
+  }
+}

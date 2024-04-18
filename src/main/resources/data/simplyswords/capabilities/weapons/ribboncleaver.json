@@ -1,0 +1,10 @@
+{
+  "type": "epicfight:greatsword",
+  "attributes": {
+    "common": {
+      "armor_negation": 22.0,
+      "impact": 5.6,
+      "max_strikes": 5
+    }
+  }
+}
