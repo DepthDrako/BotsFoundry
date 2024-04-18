@@ -1,0 +1,11 @@
+{
+  "attributes":
+  {
+    "two_hand":
+    {
+      "impact":5.8,
+      "max_strikes":5
+    }
+  },
+  "type":"epicfight:longsword"
+}
