@@ -1,0 +1,16 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "botsfoundry:casts/filled/iron/small_binding/cast"
+    }
+  ],
+  "results": [
+    {
+      "item": "botsfoundry:forged_parts/iron/binding_small"
+    },
+    {
+      "item": "botsfoundry:casts/small_binding_cast"
+    }
+  ]
+}

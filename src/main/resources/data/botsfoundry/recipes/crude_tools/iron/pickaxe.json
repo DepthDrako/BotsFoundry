@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "minecraft:iron_ingot"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "XXW",
+    " Y ",
+    " Y "
+  ],
+  "result": {
+    "item": "botsfoundry:tools/crude/iron/pickaxe"
+  },
+  "show_notification": true
+}

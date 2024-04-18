@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "minecraft:stick"
+    },
+    "Y": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "X X",
+    " Y ",
+    "X X"
+  ],
+  "result": {
+    "item": "botsfoundry:wood/binding_small"
+  },
+  "show_notification": true
+}

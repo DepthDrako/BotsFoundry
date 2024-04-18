@@ -1,0 +1,16 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "botsfoundry:casts/filled/iron/sword_blade/cast"
+    }
+  ],
+  "results": [
+    {
+      "item": "botsfoundry:forged_parts/iron/sword_blade"
+    },
+    {
+      "item": "botsfoundry:casts/sword_blade_cast"
+    }
+  ]
+}

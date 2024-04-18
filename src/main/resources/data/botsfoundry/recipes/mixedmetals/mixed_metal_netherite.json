@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "amount": 250,
+      "fluid": "botsfoundry:molten_debris_fluid"
+    },
+    {
+      "amount": 250,
+      "fluid": "botsfoundry:molten_gold_fluid"
+    }
+  ],
+  "results": [
+    {
+      "amount": 500,
+      "fluid": "botsfoundry:molten_netherite_fluid"
+    }
+  ]
+}

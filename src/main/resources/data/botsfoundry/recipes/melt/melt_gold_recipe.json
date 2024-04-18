@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "create:crushed_raw_gold"
+    }
+  ],
+  "results": [
+    {
+      "amount": 500,
+      "fluid": "botsfoundry:molten_gold_fluid"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "epicfight:hammer",
+  "attributes": {
+    "common": {
+      "impact": 6,
+      "max_strikes": 2
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "botsfoundry:casts/filled/netherite/ingot/cast"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:netherite_ingot"
+    },
+    {
+      "item": "botsfoundry:casts/ingot_cast"
+    }
+  ]
+}

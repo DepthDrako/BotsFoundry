@@ -1,0 +1,16 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "botsfoundry:casts/filled/gold/ingot/cast"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "botsfoundry:casts/ingot_cast"
+    }
+  ]
+}

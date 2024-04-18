@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "botsfoundry:wood/hoe_head"
+    },
+    {
+      "amount": 175,
+      "fluid": "botsfoundry:molten_gold_fluid"
+    }
+  ],
+  "results": [
+    {
+      "item": "botsfoundry:casts/hoe_head_cast"
+    }
+  ]
+}

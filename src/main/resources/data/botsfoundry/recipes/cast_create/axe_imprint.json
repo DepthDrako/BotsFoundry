@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "botsfoundry:wood/axe_head"
+    },
+    {
+      "amount": 175,
+      "fluid": "botsfoundry:molten_gold_fluid"
+    }
+  ],
+  "results": [
+    {
+      "item": "botsfoundry:casts/axe_head_cast"
+    }
+  ]
+}

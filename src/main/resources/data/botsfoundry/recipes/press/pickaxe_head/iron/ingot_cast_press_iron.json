@@ -1,0 +1,16 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "botsfoundry:casts/filled/iron/pickaxe_head/cast"
+    }
+  ],
+  "results": [
+    {
+      "item": "botsfoundry:forged_parts/iron/pickaxe_head"
+    },
+    {
+      "item": "botsfoundry:casts/pickaxe_head_cast"
+    }
+  ]
+}

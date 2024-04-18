@@ -1,0 +1,16 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "botsfoundry:casts/filled/gold/hoe_head/cast"
+    }
+  ],
+  "results": [
+    {
+      "item": "botsfoundry:forged_parts/gold/gold_hoe_head"
+    },
+    {
+      "item": "botsfoundry:casts/hoe_head_cast"
+    }
+  ]
+}

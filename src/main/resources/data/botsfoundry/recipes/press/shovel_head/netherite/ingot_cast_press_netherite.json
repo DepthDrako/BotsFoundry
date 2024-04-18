@@ -1,0 +1,16 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "botsfoundry:casts/filled/netherite/shovel_head/cast"
+    }
+  ],
+  "results": [
+    {
+      "item": "botsfoundry:forged_parts/netherite/netherite_shovel_head"
+    },
+    {
+      "item": "botsfoundry:casts/shovel_head_cast"
+    }
+  ]
+}

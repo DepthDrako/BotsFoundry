@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "Y": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "YY ",
+    "Y  ",
+    "   "
+  ],
+  "result": {
+    "item": "botsfoundry:wood/axe_head"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "minecraft:stick"
+    },
+    "Y": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "YYX",
+    "   ",
+    "   "
+  ],
+  "result": {
+    "item": "botsfoundry:wood/hoe_head"
+  },
+  "show_notification": true
+}

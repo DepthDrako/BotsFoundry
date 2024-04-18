@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "create:crushed_raw_copper"
+    }
+  ],
+  "results": [
+    {
+      "amount": 500,
+      "fluid": "botsfoundry:molten_copper_fluid"
+    }
+  ]
+}

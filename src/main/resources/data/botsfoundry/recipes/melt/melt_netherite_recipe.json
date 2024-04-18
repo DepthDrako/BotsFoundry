@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_ingot"
+    }
+  ],
+  "results": [
+    {
+      "amount": 500,
+      "fluid": "botsfoundry:molten_netherite_fluid"
+    }
+  ]
+}

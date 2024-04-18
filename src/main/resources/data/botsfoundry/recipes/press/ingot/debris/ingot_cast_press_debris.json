@@ -1,0 +1,16 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "botsfoundry:casts/filled/debris/ingot/cast"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "botsfoundry:casts/scrap_cast"
+    }
+  ]
+}

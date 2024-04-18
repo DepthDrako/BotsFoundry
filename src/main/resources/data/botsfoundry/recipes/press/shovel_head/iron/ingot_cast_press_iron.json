@@ -1,0 +1,16 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "botsfoundry:casts/filled/iron/shovel_head/cast"
+    }
+  ],
+  "results": [
+    {
+      "item": "botsfoundry:forged_parts/iron/shovel_head"
+    },
+    {
+      "item": "botsfoundry:casts/shovel_head_cast"
+    }
+  ]
+}

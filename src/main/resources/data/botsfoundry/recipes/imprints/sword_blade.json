@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "minecraft:stick"
+    },
+    "Y": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "  Y",
+    " Y ",
+    "X  "
+  ],
+  "result": {
+    "item": "botsfoundry:wood/sword_blade"
+  },
+  "show_notification": true
+}

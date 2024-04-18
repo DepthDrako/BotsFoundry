@@ -1,0 +1,16 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "botsfoundry:casts/filled/iron/axe_head/cast"
+    }
+  ],
+  "results": [
+    {
+      "item": "botsfoundry:forged_parts/iron/axe_head"
+    },
+    {
+      "item": "botsfoundry:casts/axe_head_cast"
+    }
+  ]
+}
