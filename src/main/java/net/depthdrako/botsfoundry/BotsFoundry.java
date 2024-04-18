@@ -1,8 +1,14 @@
 package net.depthdrako.botsfoundry;
 
 import com.mojang.logging.LogUtils;
+import net.depthdrako.botsfoundry.block.ModBlocks;
+import net.depthdrako.botsfoundry.fluid.ModFluidTypes;
+import net.depthdrako.botsfoundry.fluid.ModFluids;
 import net.depthdrako.botsfoundry.item.ModCreativeModTabs;
+import net.depthdrako.botsfoundry.item.ModItemProperties;
 import net.depthdrako.botsfoundry.item.ModItems;
+import net.minecraft.client.renderer.ItemBlockRenderTypes;
+import net.minecraft.client.renderer.RenderType;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
@@ -29,7 +35,11 @@ public class BotsFoundry {
 
         ModCreativeModTabs.register(modEventBus);
 
+        ModBlocks.register(modEventBus);
         ModItems.register(modEventBus);
+        ModFluidTypes.register(modEventBus);
+        ModFluids.register(modEventBus);
+
 
         modEventBus.addListener(this::commonSetup);
 
@@ -57,7 +67,13 @@ public class BotsFoundry {
     public static class ClientModEvents {
         @SubscribeEvent
         public static void onClientSetup(FMLClientSetupEvent event) {
+                event.enqueueWork(() -> {
+                    ModItemProperties.addCustomItemProperties();
 
+                    ItemBlockRenderTypes.setRenderLayer(ModFluids.SOURCE_MOLTEN_IRON.get(), RenderType.translucent());
+                    ItemBlockRenderTypes.setRenderLayer(ModFluids.FLOWING_MOLTEN_IRON.get(), RenderType.translucent());
+
+                });
+            }
         }
     }
-}
