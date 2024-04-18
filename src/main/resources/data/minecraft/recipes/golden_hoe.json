@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "botsfoundry:forged_parts/gold/gold_hoe_head"
+    },
+    "Y": {
+      "item": "botsfoundry:forged_parts/gold/gold_binding_small"
+    },
+    "Z": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "  X",
+    " Y ",
+    "Z  "
+  ],
+  "result": {
+    "item": "minecraft:golden_hoe"
+  },
+  "show_notification": true
+}

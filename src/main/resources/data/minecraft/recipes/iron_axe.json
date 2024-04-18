@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "botsfoundry:forged_parts/iron/axe_head"
+    },
+    "Y": {
+      "item": "botsfoundry:forged_parts/iron/binding_small"
+    },
+    "Z": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "  X",
+    " Y ",
+    "Z  "
+  ],
+  "result": {
+    "item": "minecraft:iron_axe"
+  },
+  "show_notification": true
+}

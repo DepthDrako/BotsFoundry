@@ -1,0 +1,11 @@
+{
+  "attributes":
+  {
+    "common":
+    {
+      "impact":4.8,
+      "max_strikes":5
+    }
+  },
+  "type":"epicfight:greatsword"
+}

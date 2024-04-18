@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "botsfoundry:forged_parts/gold/gold_pickaxe_head"
+    },
+    "Y": {
+      "item": "botsfoundry:forged_parts/gold/gold_binding_small"
+    },
+    "Z": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "  X",
+    " Y ",
+    "Z  "
+  ],
+  "result": {
+    "item": "minecraft:golden_pickaxe"
+  },
+  "show_notification": true
+}
